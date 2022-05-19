@@ -10,7 +10,7 @@ This package contains the source code of this website. The source code is stored
 
 The following image shows the screenshot of this webpage:
 
-![The Password Generator application displays a red button to "Generate Password".](./Assets/Screenshot.png)
+![The Password Generator application displays a red button to "Generate Password".](./assets/Screenshot.png)
 
 ## Link to Deployed Website
 
