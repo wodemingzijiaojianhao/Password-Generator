@@ -12,7 +12,7 @@ function writePassword() {
 
 function generatePassword() {
   //Ask the user for the length of password
-  var passwordLengthString = prompt("Please enter the length of the password you want create: ");
+  var passwordLengthString = prompt("Please enter the length of the password you want create. For this program to function properly, please input an integer in the range between 8 to 128 (inclusive): ");
   //If user click 'cancel', then end the process
   if (passwordLengthString == null) {
     return 'You have cancelled the password creating process'
